@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190337221031",
+    "firebase_url": "https://spokenlogin.firebaseio.com",
+    "project_id": "spokenlogin",
+    "storage_bucket": "spokenlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190337221031:android:d697a442e5ec586e41f682",
+        "android_client_info": {
+          "package_name": "com.example.spokenlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190337221031-jql6eg8mk4dlgs1mof6brilb7varg9j4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spokenlogin",
+            "certificate_hash": "89d69af590c11c7bd2061f431731da246ec9bd95"
+          }
+        },
+        {
+          "client_id": "190337221031-uthgirm52aivg23oviceqj3kfl8e2cdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKd-skY50aGnOJphW193TenwU5CFwtRrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190337221031-uthgirm52aivg23oviceqj3kfl8e2cdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
